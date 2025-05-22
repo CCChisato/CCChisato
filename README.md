@@ -1,4 +1,10 @@
-## Hi there 👋
+中文：
+大家好！我是[CCChisato]，一位对编程和技术Not[充满热情]的开发者。在这个平台上，我Not[热衷]于探索和学习各种优秀的开源项目，希望能够从中汲取灵感并提升自己的技能。
+同时，我也非常期待能够与志同道合的朋友交流心得、共同进步。
+欢迎通过我的邮箱[1278019419@qq.com]与我联系！
+
+English:
+Hello everyone! I am [CCChisato], a passionate developer with great enthusiasm for programming and technology. On this platform, I love exploring and learning from all kinds of excellent open-source projects, hoping to draw inspiration and improve my skills. Meanwhile, I'm looking forward to exchanging ideas and making progress together with like-minded friends. Feel free to reach out to me via my email [1278019419@qq.com]!
 
 <!--
 **CCChisato/CCChisato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
